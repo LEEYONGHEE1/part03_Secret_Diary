@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/lyh99/AndroidStudioProjects/kotlin_file/secret_diary/app/src/main/res/layout/activity_diary.xml" value="0.3572916666666667" />
         <entry key="..\:/Users/lyh99/AndroidStudioProjects/kotlin_file/secret_diary/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/lyh99/AndroidStudioProjects/kotlin_file/secret_diary/app/src/main/res/layout/diary.xml" value="0.35625" />
       </map>
     </option>
   </component>
